@@ -1,0 +1,15 @@
+1. hey what is the error in this code [inserted C code] why it is not running properly or giving the output properly ??
+
+2. can you show me the example for this like the expected output
+
+3. hey make changes in the code like when i am giving the output for the rectangle it is showing like enter x y width height in one line it is confusing so make that statement easier for the user to enter the output if there any statements like this make changes accordingly please !!
+
+4. show me how to give the proper input for this like show me the output !
+
+5. hey can you give me what all prompts i have given you in order to get this code give me the solid and standard ones only not the lousy ones and silly ones 
+
+6. in single format wise i have to paste this in github and put along with the code so sequentailly please !
+
+7. i want the prompts only that i gave to you or make conversations so far and not the normal conversions i want the code related conversations or prompts in paste format understood ?
+
+8. before all this what all prompts i gave like generation code and all give me that also in paste format give me around 10 conversations or prompt to paste ! for this code that is 2d graphics editor that is the conversations i made regarding the 2d graphics editor inorder to generate the code and explaination and all
